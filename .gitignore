@@ -9,6 +9,7 @@
 *.so
 *.dll
 *.dylib
+*.exe
 
 # Qt-es
 
@@ -36,3 +37,16 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user
 
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.dbgconf
+
+# vscode folder and files
+.vscode
+
+# ctags files
+*.tags
+*.tags_sorted_by_file
