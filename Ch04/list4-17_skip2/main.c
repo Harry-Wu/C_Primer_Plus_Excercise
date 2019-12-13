@@ -1,12 +1,13 @@
-/* skip2.c ----è·³è¿‡è¾“å…¥çš„å¤´ä¸¤ä¸ªæ•´æ•° */
+/* skip2.c ----Ìø¹ıÊäÈëµÄÍ·Á½¸öÕûÊı */
 #include <stdio.h>
 int main(int argc, char const *argv[])
 {
 	int n;
 	printf("Please enter 3 integers:\n");
-	scanf("%*d %*d %d", &n);  //å°†è¾“å…¥çš„ç¬¬3ä¸ªå€¼èµ‹äºn
+	scanf("%*d %*d %d", &n);  //½«ÊäÈëµÄµÚ3¸öÖµ¸³ÓÚn
 	printf("The last integer was %d\n", n);
 
+	system("PAUSE");
 	return 0;
 }
 
