@@ -1,25 +1,27 @@
 #include <stdio.h>
 #include <conio.h>
 
-const timeConvBase = 60;
+const int timeConvBase = 60;
 int main(int argc, char const *argv[])
 {
-    char ch1 = 'A';
-    char ch = ch1;
-    printf("ASCII number of A is %d\n", 'A');
-    printf("ASCII number of a is %d\n", 'a');
-    while (ch < 'A' + ALPHABET)
+    int totalMinutes, hour, minutes;
+    printf("请输入你要转换的分钟数（输入q退出）：");
+    while (scanf("%d", &totalMinutes))  //当输入的是整数时
     {
-        printf("%2c ", ch);
-        ch++;
+        if (totalMinutes > 0)
+        { 
+            hour = totalMinutes / timeConvBase;
+            minutes = totalMinutes % timeConvBase;
+            printf("%d分钟 = %d小时，%d分钟。\n", totalMinutes, hour, minutes);
+            printf("Next input: ");
+            
+        }
+        else
+        {
+            printf("请输入大于0的值：");
+        }
     }
-    printf("\n");
-    ch = ch1;
-    while (ch < 'A' + ALPHABET)
-    {
-        printf("%2c ", ch + 'a' - 'A');
-        ch++;
-    }
+    printf("结束转换。\n");
 
     getch();
     return 0;

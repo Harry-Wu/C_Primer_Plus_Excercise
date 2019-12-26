@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line",
+				"line2"
+			],
+			[
+				"uni2",
+				"unit2"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"un",
+				"unit1"
+			],
+			[
+				"mon",
+				"month_days_row1"
+			],
+			[
+				"month_da",
+				"month_day_count"
+			],
+			[
+				"Fe",
+				"Feb_days"
+			],
+			[
+				"Feb",
+				"February_days"
+			],
+			[
+				"firstday_r",
+				"firstday_row1"
+			],
+			[
+				"firstday",
+				"firstday"
+			],
+			[
+				"firstday_",
+				"firstday_row1"
+			],
+			[
+				"del",
+				"delay_ms"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"st",
+				"strcmp"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MyC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyC.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MyC.sublime-build",
+					"RunInCommand"
+				]
+			],
+			[
+				"Packages/User/MyC.sublime-build",
+				"RunInCommand"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Stop Debugging"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"pCRP",
+				"Package Control: Remove Package"
+			],
+			[
+				"color them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"#in",
+				"Snippet: #include \"…\""
+			],
+			[
+				"#",
+				"Snippet: #include <…>"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"smcr",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"smc",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"sub m",
+				"Sublimerge: Compare to Revision..."
+			],
+			[
+				"pcpr",
+				"Package Control: Remove Package"
+			],
+			[
+				"mp",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"packc r",
+				"Package Control: Remove Package"
+			],
+			[
+				"outl",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"mode",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Git_Repository/GitHub/C_Primer_Plus_Excercise"
+	],
+	"file_history":
+	[
+		"/C/Users/harry/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Git_Repository/GitHub/C_Primer_Plus_Excercise/Ch05/ex5-1 convert_minutes2hours/main.c",
+		"/E/OneDrive/My Documents/想法.brain",
+		"/E/OneDrive/My Documents/keyfile_u",
+		"/C/Users/harry/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/harry/Desktop/老友记.H265.1080P.SE01.02.mkv_1569594552.srt",
+		"/C/Users/harry/AppData/Roaming/Francochinois/eudic/LDOCE 5++ V2.15/LM5style.css",
+		"/E/English learning material/Software/MDict词库/LDOC5++/LDOCE5   V 1-35/LM5Switch.js",
+		"/C/Users/harry/Desktop/buck/buck/ZHD243K_20190826_updown_ad - battery/SOURCE/main.c",
+		"/C/Users/harry/Desktop/buck/buck/ZHD243K_20190826_updown_ad - battery/SOURCE/DcdcControl/Iloop.h",
+		"/E/OneDrive/Entertainment/Game/CSGO/其他人config参考/10_binds_pink_freud.cfg",
+		"/D/GAME/Steam/userdata/42755809/730/local/cfg/config.cfg",
+		"/D/GAME/Steam/userdata/42755809/730/local/cfg/gamestate_integration_5e.cfg",
+		"/D/GAME/Steam/userdata/42755809/730/local/cfg/5e_economy.cfg",
+		"/J/M4/Works/M4_STD_Works/ex2-2 Button 3tims scan/user/src/main.c",
+		"/J/M4/Works/M4_STD_Works/ex2-2 Button 3tims scan/user/src/delay.c",
+		"/J/M4/Works/M4_STD_Works/ex2-1 Button/user/src/main.c",
+		"/J/M4/Works/M4_STD_Works/ex2-1 Button/user/src/delay.c",
+		"/J/M4/Works/M4_STD_Works/ex2-1 Button/user/src/key.c",
+		"/J/M4/Works/M4_STD_Works/ex3-1 Uart/user/src/main.c",
+		"/J/M4/Works/M4_STD_Works/ex3-1 Uart/user/inc/uart.h",
+		"/C/Users/harry/Desktop/c test/test.c",
+		"/C/Users/harry/Desktop/c test/test4.c",
+		"/C/Users/harry/Desktop/c test/test3.c",
+		"/C/Users/harry/Desktop/c test/test2.c",
+		"/E/OneDrive/_Inbox/test.c",
+		"/J/C-Projects/test.c",
+		"/G/C-Projects/test.c",
+		"/C/Users/harry/Downloads/Compressed/贪吃蛇/repos/snake/snake/snake.cpp",
+		"/E/OneDrive/_Inbox/Prj04 Snake/main.c",
+		"/D/Git_Repository/GitHub/C-Projects/.gitignore",
+		"/G/Prj03 Calander/main.c",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/User/MyC.sublime-build",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGDB.sublime-settings",
+		"/G/Prj03 Calander/Prj03 万年历.sublime-project",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/SublimeGDB/Default.sublime-keymap",
+		"/G/Prj03 万年历 - Copy/Prj03 万年历.vcxproj",
+		"/G/Prj03 万年历 - Copy/-",
+		"/G/Prj03",
+		"/G/万年历",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/G/Copy",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex2-1 Button/user/inc/-",
+		"/C/Users/h.wu2.LIGHT/Desktop/test 你们都是.c",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex2-1 Button/user/src/main.c",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/backrefs/st3/backrefs/util.py",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/src/main.c",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Cortex-M4 Related/Data/正点原子探索者F4资料盘/探索者F4 资料盘(A盘)/4，程序源码/2，标准例程-库函数版本/实验5 外部中断实验/HARDWARE/EXTI/exti.c",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/inc/led.h",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/inc/rs485.h",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/inc/io_bit.h",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/inc/delay.h",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/inc/key.h",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Works/Projects/Allegro 2.0/Software/190312_V1_4_15/config/constantsLiner_15W-W_B2019-03-23.cfg",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Works/Projects/Allegro 2.0/Software/190312_V1_4_15/config/help",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Works/Projects/Allegro 2.0/Software/190312_V1_4_15/config/new",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Works/Projects/Allegro 2.0/Software/190312_V1_4_15/config/-",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/src/main2.c",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge 3.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Default (Windows).sublime-keymap",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/DiffView/DiffView.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/Diffy/Diffy.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/README.md",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/src/rs485.c",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/src/delay.c",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex5-1 RS485/user/src/uart.c",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex2-1 Button/user/src/led.c",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Works/Projects/Allegro 2.0/Software/190312_V1_4_15/config/constantsLiner_15W-DW_B2019-03-23.cfg",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/.gitignore",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex3-2 UART-int/.tags",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/M4_STD_Works/ex2-1 Button/keilkill.bat",
+		"/C/Program Files/TotalCMD64/Tools/Notepad3/minipath.ini",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Works/Projects/Allegro 2.0/Software/190312_V1_4_15/config/constantsLiner_45W-DW_B2019-03-23.cfg",
+		"/C/Users/h.wu2.LIGHT/OneDrive - Osram GmbH/Works/Projects/Allegro 2.0/Software/190312_V1_4_15/config/constantsLiner_30W-RGBW_B2019-03-23.cfg",
+		"/C/Works/Projects/Allegro 2.0/Software/190226_V1_4_8/config/constantsLiner_60W-RGBW_V1_4_1.cfg",
+		"/C/gamma.ini",
+		"/C/Users/h.wu2.LIGHT/Desktop/1111111.txt",
+		"/C/Users/h.wu2.LIGHT/Documents/Git_repository/Github/The-C-Programming-Language-Solutions/CH2/Ex2-4 Squeeze String/main.c",
+		"/C/Works/Projects/Allegro 2.0/Software/181203_V1_0_17/config/Allegro_Liner_cfg_15W.txt",
+		"/C/Works/Projects/Allegro 2.0/Software/181203_V1_0_17/changelog.txt",
+		"/C/Works/Projects/Allegro 2.0/Software/181112_V1_0_12_LDR1_3_Full/config/Allegro_Liner_cfg_60W.txt",
+		"/C/Program Files (x86)/STMicroelectronics/st_toolset/stvd/Example/tutorial_raisonance/timer.c",
+		"/C/Program Files/TotalCMD64/Tools/Notepad2.ini",
+		"/C/Users/h.wu2.LIGHT/Desktop/1111.txt",
+		"/C/Works/Projects/Allegro 2.0/Electric/SCH&PCB/Driver board/60W/AL2.0 60W RGBW-RDM V1.3 11.15/说明.txt",
+		"/C/Users/h.wu2.LIGHT/vuser_passwd.txt",
+		"/C/Users/h.wu2.LIGHT/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KFB4WH67/Log_181125_143816.log.txt",
+		"/C/Users/h.wu2.LIGHT/Desktop/SocketTool4/使用说明.txt",
+		"/C/Users/h.wu2.LIGHT/ftpuser - Copy"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "C_Primer_Plus_Excercise.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"LED",
+				"user\\inc\\led.h"
+			],
+			[
+				"DYNAMIC 15",
+				"dynamic_15W-DW_B2019-03-23.cfg"
+			],
+			[
+				"",
+				"C:\\Users\\h.wu2.LIGHT\\OneDrive - Osram GmbH\\Works\\Projects\\Allegro 2.0\\Software\\190312_V1_4_15\\config\\constantsLiner_30W-W_B2019-03-23.cfg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "key",
+		"selected_items":
+		[
+			[
+				"key",
+				"KEY3"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
