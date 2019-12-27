@@ -69,9 +69,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -235,6 +232,7 @@
 		"height": 185.0,
 		"history":
 		[
+			"cd .."
 		]
 	},
 	"distraction_free":
@@ -246,12 +244,11 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/D/Git_Repository/GitHub/C_Primer_Plus_Excercise"
-	],
 	"file_history":
 	[
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/h.wu2.LIGHT/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
 		"/C/Users/harry/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/D/Git_Repository/GitHub/C_Primer_Plus_Excercise/Ch05/ex5-1 convert_minutes2hours/main.c",
 		"/E/OneDrive/My Documents/想法.brain",
@@ -379,14 +376,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 31.0
@@ -435,7 +424,6 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "C_Primer_Plus_Excercise.sublime-project",
 	"replace":
 	{
 		"height": 58.0
@@ -484,7 +472,6 @@
 		],
 		"width": 592.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},

@@ -12,4 +12,7 @@
 
 - ###### .gitignore
 
+## 比较有特色的几个练习：
+- ex6-4 alphabet_pyramid 字母金字塔
+
   
