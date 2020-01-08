@@ -1,3 +1,4 @@
+//连续读入10个得分，然后计算总和，平均值等
 #include <stdio.h>
 #define SIZE 10
 #define PAR 72
