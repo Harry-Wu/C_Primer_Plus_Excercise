@@ -28,6 +28,12 @@ int main(int argc, char const *argv[])
 			n_words++;  //统计单词
 		}
 		if (isspace(ch) && inword) //如果字符是空格，并且标志还显示在单词中
+		果字符不是空格，并且标志不在单词中
+		{
+			inword = true;  //就开始统计一个新单词
+			n_words++;  //统计单词
+		}
+		if (isspace(ch) && inword) //如果字符是空格，并且标志还显示在单词中
 			inword = false;  //将标志置为不在单词中
 		prevCh = ch;  //保存字符
 			
