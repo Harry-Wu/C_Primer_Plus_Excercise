@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(int argc, char const *argv[])
+{
+	printf("%s\n", "Hello");
+	printf("%s\n", "Sublime Text3!");
+	//getchar();
+	return 0;
+}
